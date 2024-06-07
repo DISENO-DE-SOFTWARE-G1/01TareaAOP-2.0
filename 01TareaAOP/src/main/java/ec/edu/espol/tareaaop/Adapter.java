@@ -16,7 +16,7 @@ interface ClientInterface {
     void method(String data);
 }
 
-// Servicio Final que es incompatible con el usuario
+// Servicio Final que es incompatible con el cliente
 class Service {
     public void serviceMethod(String specialData) {
         System.out.println("Datos en Service: " + specialData);

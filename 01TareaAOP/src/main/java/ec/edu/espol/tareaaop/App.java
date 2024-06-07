@@ -14,7 +14,7 @@ public class App {
         Service service = new Service();
         ClientInterface adapter = new Adapter(service);
         Client client = new Client(adapter);
-        // El cliente usa el adaptador para comunicarse con el servicio
+        // Patron Adapter
         client.doWork("Datos originales");
     }
 }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SeccionA/01TareaAOP/src/main/java"/>
+	<classpathentry excluding="ec/edu/espol/" kind="src" path="SeccionB/01TareaAOP/src/main/java"/>
+	<classpathentry kind="src" path="SeccionB/01TareaAOP/src/main/java/ec/edu/espol"/>
+	<classpathentry excluding="ec/edu/espol/" kind="src" path="SeccionC/01TareaAOP/src/main/java"/>
+	<classpathentry kind="src" path="SeccionC/01TareaAOP/src/main/java/ec/edu/espol"/>
+	<classpathentry kind="output" path="SeccionA/01TareaAOP/target/classes"/>
+</classpath>

@@ -6,7 +6,7 @@ package ec.edu.espol.tareaaop;
 
 /**
  *
- * @author angelozurita
+ *
  */
 
 

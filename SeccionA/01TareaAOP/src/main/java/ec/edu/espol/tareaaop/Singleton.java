@@ -7,7 +7,7 @@ package ec.edu.espol.tareaaop;
 
 /**
  *
- * @author angelozurita
+ *
  */
 public class Singleton {
     private static final Singleton INSTANCE = new Singleton();

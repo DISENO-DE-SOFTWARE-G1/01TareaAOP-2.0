@@ -16,5 +16,8 @@ public class App {
         Client client = new Client(adapter);
         // Patron Adapter
         client.doWork("Datos originales");
+        // Patron Singleton 
+        Singleton singleton = Singleton.getInstance();
+        singleton.method();
     }
 }
